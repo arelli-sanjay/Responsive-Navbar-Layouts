@@ -1,0 +1,72 @@
+.mainclass{
+    background-image: url(photo.jpg);
+    background-size: cover;
+    height: 100vh;
+}
+*{ 
+    font-family: "Nunito", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  color: white;
+  font-size: 20px;
+}
+.menubar{
+    background-color: rgb(255,255,255,0.1);
+    height: 100vh;
+    width: 350px;
+    color: white;
+    position: fixed;
+    left: -500px;
+    box-shadow:0px 0px 5px white;
+}
+a{
+    text-decoration: none;
+    padding-left: 10px;
+}
+#yes{
+   display: none;
+}
+#id{
+    font-size:30px;
+}
+.crossbar{
+   margin-left: 320px;
+   margin-top: -20px;
+   opacity: 0.5;
+   
+}
+.head{
+    padding-left: 30px;
+}
+.menubox{
+    padding: 15px 5px;
+}
+.list ul li{
+    padding: 10px 50px;
+    position:relative;
+    margin-left:-50px;
+}
+.list ul li:hover{
+    box-shadow: 0px 0px 5px white;
+}
+.menubox:hover{
+    box-shadow: 0px 0px 5px white;
+}
+.list2 a i{
+    font-size: 15px;
+}
+.list2{
+    margin-top: 270px;
+    margin-left: 80px;
+}
+.list2 a i:hover{
+    font-size: 25px;
+}
+ #yes:checked~.menubar{
+    left: 0;
+ }
+ .menu{
+    position: fixed;
+    left: 10px;
+ }

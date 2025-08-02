@@ -1,0 +1,35 @@
+h1{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+.container{
+    padding-top: 500px;
+}
+button{
+    color: black;
+    background-color:#FFDDA9 ;
+    border: 2px solid #FFDDA9;
+}
+.button{
+    border-radius: 15px;
+    font-weight:600;
+    display: block;
+    margin: auto;
+    height: 35px;
+    width: 120px;
+
+}
+.container1{
+    background-image: url(https://assets.ccbp.in/frontend/responsive-website/landing-section-bg.png);
+    background-size:cover;
+    height: 100vh;
+}
+.container5{
+    color: white;
+    margin-top: 200px;
+}
+.fl{
+    color: #FFDDA9;
+}
