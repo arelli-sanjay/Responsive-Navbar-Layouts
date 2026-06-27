@@ -15,7 +15,7 @@ A modern landing page with a collapsible top navigation menu and a full-width he
 - Clean UI with centered hero content
 
 
-### 🔹 Sidebar Navigation Layout
+###  Sidebar Navigation Layout
 
 A responsive layout featuring a dark-themed sidebar with collapsible navigation links.
 
